@@ -1,0 +1,28 @@
+{
+	"name": "cape-town-nights",
+	"displayName": "Cape Town Nights",
+	"description": "Take it easy.",
+	"version": "1.0.0",
+	"publisher": "WalterHahn",
+	"engines": {
+		"vscode": "^1.14.0"
+	},
+	"icon": "images/logo.jpg",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Cape Town Nights",
+				"uiTheme": "vs-dark",
+				"path": "themes/cape-town-nights.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "00b3d0de-3908-432b-92ee-35bee44f3052",
+		"publisherDisplayName": "Walter Hahn",
+		"publisherId": "b726e6fb-88ac-4933-ae7f-c37ac92e3785"
+	}
+}
